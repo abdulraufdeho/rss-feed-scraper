@@ -1,16 +1,16 @@
-# Rss-Feed Scraper API
+# RSS Feed Scraper API
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Rss-Feed Scraper](https://oxylabs.io/products/scraper-api/web/rss-feed-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Rss-Feed website effortlessly. This brief guide explains how an Rss-Feed Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [RSS Feed Scraper](https://oxylabs.io/products/scraper-api/web/rss-feed-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any RSS Feed effortlessly. This brief guide explains how a RSS Feed Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Rss-Feed results by providing your own URLs to our service. We can return the HTML for any Rss-Feed page you like.
+You can get RSS Feed results by providing your own URLs to our service. We can return the HTML for any RSS Feed page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Rss-Feed page.
+The example below illustrates how you can get HTML of RSS Feed page.
 
 ```python
 import requests
@@ -52,4 +52,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Rss-Feed Scraper, you can seamlessly pull public data from your preferred Rss-Feed web pages. Gather crucial book information like author, publication date, genre, or synopses to stay updated on industry trends and keep an edge over your competitors. If you require assistance or have any queries, feel free to engage our support team via live chat or drop us an email at hello@oxylabs.io.
+With our RSS Feed Scraper, you can seamlessly pull public data from your preferred RSS Feed web pages. Gather crucial book information like author, publication date, genre, or synopses to stay updated on industry trends and keep an edge over your competitors. If you require assistance or have any queries, feel free to engage our support team via live chat or drop us an email at hello@oxylabs.io.
