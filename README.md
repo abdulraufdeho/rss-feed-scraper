@@ -10,7 +10,7 @@ You can get RSS Feed results by providing your own URLs to our service. We can r
 
 #### Python code example
 
-The example below illustrates how you can get HTML of RSS Feed page.
+The example below illustrates how you can get HTML of a RSS Feed page.
 
 ```python
 import requests
